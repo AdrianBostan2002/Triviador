@@ -47,7 +47,7 @@ At the end of the game the players are prompted with the leaderboards of that ga
 </ol>
 
 # Teammates
-[Bostan Adrian](https://github.com/AdrianBostan2002) \
+[Corbu Andrei](https://github.com/andreicorbu1) \
 [Boscan Tiberiu](https://github.com/tbtiberiu) \
 [Ciortea Cristian](https://github.com/CristianGabrielCiortea)
 
